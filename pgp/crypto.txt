@@ -1,0 +1,2 @@
+klucz z 0x085C4FC4.asc nalezy do Andrzej Borzyszkowski (laboratorium z kryptografii) <andrzej.borzyszkowski@ug.edu.pl> i jest ważny do 2024-06-15
+klucz z 0x4DB19F11.asc nalezy do Tadeusz Żeleński (Boy) <tzb@ziemianska.pl> jest ważny bezterminowo
